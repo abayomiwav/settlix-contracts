@@ -330,3 +330,4 @@ This project is licensed under the MIT License.
 ---
 
 Built with ❤️ for the Stellar ecosystem
+<!-- fix: addresses issue #363 - [Testing] Performance regression tests not in CI pipeline -->
